@@ -130,11 +130,17 @@ font-family:Arial, Helvetica, sans-serif;
     border-radius:10px;
 }
 @media (max-width:1320px){
+    header{
+        padding:0 50px;
+    }
     body{
         font-size:1vw;
     }
 }
 @media (max-width:1000px){
+    header{
+        padding:0 30px;
+    }
     body{
         font-size:1vw;
     }
